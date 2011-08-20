@@ -1,5 +1,7 @@
 ReadMe
 ======
+Solve a simple problem with a complex solution...
+
 Problem
 -------
 Using only the numbers 1 through 9, without changing their order insert either a "+", "*", or nothing between each number. Find all the expressions that evaluate to 2002.
